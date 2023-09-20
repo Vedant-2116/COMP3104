@@ -1,0 +1,33 @@
+COMP 3104 DevOps Course Overview:
+
+COMP 3104 is an exciting and comprehensive course offered at George Brown College that delves into the world of DevOps. This course is designed to equip students with the knowledge and skills needed to excel in the field of DevOps and to bridge the gap between development and operations in the software development lifecycle.
+
+Key Topics Covered in COMP 3104 DevOps Course:
+
+1. **Introduction to DevOps:** Understand the fundamental concepts of DevOps, its history, and why it's crucial in modern software development.
+
+2. **Version Control:** Learn about version control systems like Git and how they facilitate collaboration among development teams.
+
+3. **Continuous Integration (CI):** Explore CI practices and tools like Jenkins, Travis CI, and CircleCI to automate the build and testing of code changes.
+
+4. **Continuous Delivery and Deployment (CD):** Discover how CD pipelines enable the automatic deployment of software changes to production environments.
+
+5. **Containerization:** Dive into containerization technologies like Docker and container orchestration with Kubernetes.
+
+6. **Infrastructure as Code (IaC):** Understand the concept of IaC and learn how tools like Terraform and Ansible automate infrastructure provisioning and configuration.
+
+7. **Monitoring and Logging:** Explore tools for monitoring application performance and collecting logs for troubleshooting.
+
+8. **Security in DevOps:** Learn about security practices in DevOps, including vulnerability scanning and code analysis.
+
+9. **Collaboration and Communication:** Understand how effective communication and collaboration among development and operations teams are essential for successful DevOps implementation.
+
+Course Objectives:
+
+- Gain hands-on experience with popular DevOps tools and technologies.
+- Learn best practices for automating and streamlining software development and deployment processes.
+- Collaborate with team members to develop and manage a DevOps pipeline.
+- Understand the importance of continuous improvement and feedback in the DevOps culture.
+
+By the end of COMP 3104, students will be well-prepared to contribute to DevOps initiatives in real-world software development projects and be equipped with skills that are in high demand in the IT industry.
+
